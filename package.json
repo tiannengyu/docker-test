@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiannengyu/demo.git"
+    "url": "git+https://github.com/tiannengyu/docker-test.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tiannengyu/demo/issues"
+    "url": "https://github.com/tiannengyu/docker-test/issues"
   },
-  "homepage": "https://github.com/tiannengyu/demo#readme",
+  "homepage": "https://github.com/tiannengyu/docker-test#readme",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
@@ -42,7 +42,6 @@
     "express": "^4.16.4",
     "happypack": "^5.0.1",
     "html-webpack-plugin": "^4.0.0-beta.5",
-    "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "uglifyjs-webpack-plugin": "^2.1.1",
